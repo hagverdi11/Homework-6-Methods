@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\bin\Debug\netcoreapp3.1\Methods Homework.exe
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\bin\Debug\netcoreapp3.1\Methods Homework.deps.json
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\bin\Debug\netcoreapp3.1\Methods Homework.runtimeconfig.json
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\bin\Debug\netcoreapp3.1\Methods Homework.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\bin\Debug\netcoreapp3.1\Methods Homework.dll
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\bin\Debug\netcoreapp3.1\Methods Homework.pdb
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\obj\Debug\netcoreapp3.1\Methods Homework.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\obj\Debug\netcoreapp3.1\Methods Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\obj\Debug\netcoreapp3.1\Methods Homework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\obj\Debug\netcoreapp3.1\Methods Homework.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\obj\Debug\netcoreapp3.1\Methods Homework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\obj\Debug\netcoreapp3.1\Methods Homework.dll
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\obj\Debug\netcoreapp3.1\Methods Homework.pdb
+C:\Users\HP\Desktop\C# Methods\Methods Homework\Methods Homework\obj\Debug\netcoreapp3.1\Methods Homework.genruntimeconfig.cache
